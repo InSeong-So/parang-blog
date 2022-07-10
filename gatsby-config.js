@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `InSeong-So`,
+      summary: `꿈을 향하는 개발자입니다. 생산성, 효율성, 자동화, 깊이 있는 공부에 관심이 많습니다.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
