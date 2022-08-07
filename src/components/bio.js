@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import { StaticImage } from 'gatsby-plugin-image';
 
@@ -39,9 +39,7 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
+          <a href="https://github.com/inseong-so">Github</a>
         </p>
       )}
     </div>

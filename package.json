@@ -1,5 +1,6 @@
 {
   "name": "blog",
+  "packageManager": "yarn@3.2.2",
   "private": true,
   "description": "InSeong-So's Blog",
   "version": "0.1.0",
@@ -44,7 +45,8 @@
     "eslint-import-resolver-typescript": "^3.4.0",
     "eslint-plugin-next": "^0.0.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "prop-types": "^15.8.1"
   },
   "homepage": "https://github.com/InSeong-So/parang-blog#readme",
   "keywords": [

@@ -1,0 +1,172 @@
+{
+  "stages": {
+    "develop": {
+      "plugins": [
+        {
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/gatsby-plugin-image-virtual-16325e35f2/0/cache/gatsby-plugin-image-npm-2.20.0-d87ea86d23-063f924c1f.zip/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/Users/tene/Development/parang-blog/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-optional-chaining-virtual-f1b9be2bd3/0/cache/@babel-plugin-proposal-optional-chaining-npm-7.18.9-f7302c42f9-f2db40e261.zip/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-nullish-coalescing-operator-virtual-8cab631035/0/cache/@babel-plugin-proposal-nullish-coalescing-operator-npm-7.18.6-cf22ea8526-949c9ddcde.zip/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-numeric-separator-virtual-e0eebaef1c/0/cache/@babel-plugin-proposal-numeric-separator-npm-7.18.6-cfcd55888a-f370ea584c.zip/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-preset-typescript-virtual-82f6e7f49d/0/cache/@babel-preset-typescript-npm-7.18.6-8099191daa-7fe0da5103.zip/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
+            "plugins": [],
+            "allExtensions": false,
+            "isTSX": false,
+            "jsxPragma": "React"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    },
+    "develop-html": {
+      "plugins": [
+        {
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/gatsby-plugin-image-virtual-16325e35f2/0/cache/gatsby-plugin-image-npm-2.20.0-d87ea86d23-063f924c1f.zip/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/Users/tene/Development/parang-blog/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-optional-chaining-virtual-f1b9be2bd3/0/cache/@babel-plugin-proposal-optional-chaining-npm-7.18.9-f7302c42f9-f2db40e261.zip/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-nullish-coalescing-operator-virtual-8cab631035/0/cache/@babel-plugin-proposal-nullish-coalescing-operator-npm-7.18.6-cf22ea8526-949c9ddcde.zip/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-numeric-separator-virtual-e0eebaef1c/0/cache/@babel-plugin-proposal-numeric-separator-npm-7.18.6-cfcd55888a-f370ea584c.zip/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-preset-typescript-virtual-82f6e7f49d/0/cache/@babel-preset-typescript-npm-7.18.6-8099191daa-7fe0da5103.zip/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
+            "plugins": [],
+            "allExtensions": false,
+            "isTSX": false,
+            "jsxPragma": "React"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    },
+    "build-html": {
+      "plugins": [
+        {
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/gatsby-plugin-image-virtual-16325e35f2/0/cache/gatsby-plugin-image-npm-2.20.0-d87ea86d23-063f924c1f.zip/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/Users/tene/Development/parang-blog/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-optional-chaining-virtual-f1b9be2bd3/0/cache/@babel-plugin-proposal-optional-chaining-npm-7.18.9-f7302c42f9-f2db40e261.zip/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-nullish-coalescing-operator-virtual-8cab631035/0/cache/@babel-plugin-proposal-nullish-coalescing-operator-npm-7.18.6-cf22ea8526-949c9ddcde.zip/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-numeric-separator-virtual-e0eebaef1c/0/cache/@babel-plugin-proposal-numeric-separator-npm-7.18.6-cfcd55888a-f370ea584c.zip/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-preset-typescript-virtual-82f6e7f49d/0/cache/@babel-preset-typescript-npm-7.18.6-8099191daa-7fe0da5103.zip/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
+            "plugins": [],
+            "allExtensions": false,
+            "isTSX": false,
+            "jsxPragma": "React"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    },
+    "build-javascript": {
+      "plugins": [
+        {
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/gatsby-plugin-image-virtual-16325e35f2/0/cache/gatsby-plugin-image-npm-2.20.0-d87ea86d23-063f924c1f.zip/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "/Users/tene/Development/parang-blog/.cache/caches/gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-optional-chaining-virtual-f1b9be2bd3/0/cache/@babel-plugin-proposal-optional-chaining-npm-7.18.9-f7302c42f9-f2db40e261.zip/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-nullish-coalescing-operator-virtual-8cab631035/0/cache/@babel-plugin-proposal-nullish-coalescing-operator-npm-7.18.6-cf22ea8526-949c9ddcde.zip/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-plugin-proposal-numeric-separator-virtual-e0eebaef1c/0/cache/@babel-plugin-proposal-numeric-separator-npm-7.18.6-cfcd55888a-f370ea584c.zip/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
+        }
+      ],
+      "presets": [
+        {
+          "name": "/Users/tene/Development/parang-blog/.yarn/__virtual__/@babel-preset-typescript-virtual-82f6e7f49d/0/cache/@babel-preset-typescript-npm-7.18.6-8099191daa-7fe0da5103.zip/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
+            "plugins": [],
+            "allExtensions": false,
+            "isTSX": false,
+            "jsxPragma": "React"
+          }
+        }
+      ],
+      "options": {
+        "cacheDirectory": true,
+        "sourceType": "unambiguous"
+      }
+    }
+  },
+  "browserslist": [
+    ">0.25%",
+    "not dead"
+  ]
+}
