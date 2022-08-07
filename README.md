@@ -3,8 +3,6 @@
 <br>
 <hr>
 
-Powered by [Gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
-
 💻 기술과 개발에 대한 기록을 남깁니다! 💻
 
 <hr>

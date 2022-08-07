@@ -24,6 +24,8 @@ dist-ssr
 *.sln
 *.sw?
 
+.cache
+
 # yarn
 .yarn/*
 !.yarn/cache
