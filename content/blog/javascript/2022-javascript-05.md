@@ -6,11 +6,9 @@ thumbnail: './images/base/javascript.png'
 draft: false
 ---
 
-# [번역] 자바스크립트 Iterators, Iterables과 Generators 딥 다이브
-
 ![javascript](./images/2022/2022-javascript-05-01.png)
 
-> [원문](https://mathiasbynens.be/notes/shapes-ics)을 번역한 글입니다!
+> [원문](https://blog.openreplay.com/deep-dive-into-javascript-s-iterators-iterables-and-generators)을 번역한 글입니다!
 
 <br>
 
